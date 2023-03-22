@@ -1,0 +1,13 @@
+-----------------------------------------------------
+Patient Name: John Doe
+Age: 19
+Address: 123 Castle Cr
+City: Waterloo
+Province: Ontario
+Postal Code: N2L 7X8
+Phone Number: (705) 123-8992
+Email: joedoe@gmail.com
+
+Appointment time: 03-17-2023 12:00 AM
+Appointment Duration: 15 mins
+Description: Description of purpose for the visit goes here.

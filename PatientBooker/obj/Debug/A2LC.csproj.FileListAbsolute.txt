@@ -1,0 +1,11 @@
+G:\PROG1965\A2LC\A2LC\bin\Debug\A2LC.exe.config
+G:\PROG1965\A2LC\A2LC\bin\Debug\A2LC.exe
+G:\PROG1965\A2LC\A2LC\bin\Debug\A2LC.pdb
+G:\PROG1965\A2LC\A2LC\obj\Debug\A2LC.csproj.AssemblyReference.cache
+G:\PROG1965\A2LC\A2LC\obj\Debug\A2LC.csproj.SuggestedBindingRedirects.cache
+G:\PROG1965\A2LC\A2LC\obj\Debug\A2LC.frmBooking.resources
+G:\PROG1965\A2LC\A2LC\obj\Debug\A2LC.Properties.Resources.resources
+G:\PROG1965\A2LC\A2LC\obj\Debug\A2LC.csproj.GenerateResource.cache
+G:\PROG1965\A2LC\A2LC\obj\Debug\A2LC.csproj.CoreCompileInputs.cache
+G:\PROG1965\A2LC\A2LC\obj\Debug\A2LC.exe
+G:\PROG1965\A2LC\A2LC\obj\Debug\A2LC.pdb
