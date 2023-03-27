@@ -1,6 +1,6 @@
 # WPFAppointmentScheduler
 
-![WPF Appointment Scheduler Screenshot](./screenshot.png)
+![WPF Appointment Scheduler Screenshot](/PatientBooker/bin/PreviewWPFAppointment.PNG)
 
 WPF Appointment Scheduler is a simple yet powerful C# Windows Presentation Foundation (WPF) application designed to help users book and view appointments. This application makes it easy to create, view, and edit appointments, as well as view them in a calendar format.
 
