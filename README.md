@@ -2,7 +2,7 @@
 
 ![WPF Appointment Scheduler Screenshot](./screenshot.png)
 
-WPF Appointment Scheduler is a simple yet powerful C# Windows Presentation Foundation (WPF) application designed to help users book and manage appointments. This application makes it easy to create, edit, and delete appointments, as well as view them in a calendar format.
+WPF Appointment Scheduler is a simple yet powerful C# Windows Presentation Foundation (WPF) application designed to help users book and view appointments. This application makes it easy to create, view, and edit appointments, as well as view them in a calendar format.
 
 ## Table of Contents
 
